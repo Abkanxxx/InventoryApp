@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="fill_strings_message">Please enter all data</string>
+</resources>
